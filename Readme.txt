@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Softmobi
-Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
+Website URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
